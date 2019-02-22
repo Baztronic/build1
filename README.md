@@ -1,1 +1,1 @@
-# build1
+A collection of puppet scripts for common build tasks. 
