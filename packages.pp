@@ -2,12 +2,12 @@ package
   {
   'epel-release':
   ensure => installed,
-}
+  }
 package
-{
+  {
   'sendmail-cf':
   ensure => installed,
-}
+  }
 package
 {
   'sendmail':
